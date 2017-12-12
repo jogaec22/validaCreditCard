@@ -3,7 +3,7 @@
 * Dentro de la ruta: 
 test_src/org/ejercicio/AlgoritmoTest.java  
 
-Para realizar las pruebas respectivas.
+Para realizar las pruebas respectivas, dichas pruebas con Junit.
 
 * Dentro de la ruta: 
 src/org/ejercicio/Algoritmo.java
